@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.checks{
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+}
+
+.pizza-base{
+    position: absolute;
+    left: 0;
+    margin: 70px;
+}
+.tommato{
+    position: absolute;
+    left: 0;
+    margin: 70px;
+}
+.mushroom{
+    position: absolute;
+    left: 0;
+    margin: 50px;
+}
+.olive{
+    position: absolute;
+    left: 0;
+    margin: 60px;
+}
+.basil{
+    position: absolute;
+    left: 0;
+    margin: 70px;
+}
+.pineapple{
+    position: absolute;
+    left: 0;
+    margin: 70px;
+
+}
+.button{
+    margin-top: 100px;
+}
